@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/20059131/180619266-6319972e-03c3-42f7-8d88-bdd240cb13bc.png)
 
-These are 200+ flashcards I made to review everything from my years of ML research, classes, and independent study. Creating them helped me prepare for machine learning engineer interviews and was able to get offers from several companies in 2022 (including Google, Tesla, Samsung, Motional, UiPath, and TikTok). Hopefully other people can benefit from them as well!
+These are 200+ flashcards I made to review everything from my years of ML research, classes, and independent study. Creating them helped me prepare for machine learning engineer interviews and I was able to get offers from several companies in 2022 (including Google, Tesla, Samsung, Motional, UiPath, and TikTok). Hopefully other people can benefit from them as well!
 
 The PDFs in this repo are mostly for convenience. __Check out these presentation slide links for the most up to date and animated Q&A versions__, with additional links in the speaker notes:
 
@@ -25,7 +25,7 @@ This covers computer science, classical machine learning, and modern deep learni
 
 # Contributing
 
-Because of gaps in my understanding, and because the field is constantly changing, this is not meant to be a definitive resource. There may be errors in these slides, or things that I've missed. If so, feel free to make a post as an issue in github.
+Because of gaps in my understanding, and because the field is constantly changing, this is not meant to be a definitive resource. There may be errors in these slides, or things that I've missed and if so, feel free to make a post as an issue in github.
 
 __*Please mark the slide in question so others can easily find it, e.g. if you want to discuss Machine Learning General slide 14, add [2.14] to the title.*__
 
